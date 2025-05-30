@@ -1,0 +1,32 @@
+food_text = """
+21-Day Break Free Challenge – Food Addiction
+
+WEEK 1 – AWARENESS & RESET
+Day 1: Replace one junk snack with fruit or veggies.
+Day 2: Eat all meals mindfully and distraction-free.
+Day 3: Keep a food & mood journal.
+Day 4: Drink water before meals and snacks.
+Day 5: Remove top 2 binge foods from your home.
+Day 6: Cook one healthy meal with attention.
+Day 7: Say one gratitude before eating.
+
+WEEK 2 – REBUILDING TRUST
+Day 8: Write instead of eating emotionally.
+Day 9: Eat with your non-dominant hand.
+Day 10: Structure your meals instead of grazing.
+Day 11: Move your body joyfully.
+Day 12: Practice self-talk: I am not bad for eating.
+Day 13: Say no to one emotional craving.
+Day 14: Eat one meal fully without devices.
+
+WEEK 3 – BALANCE & EMPOWERMENT
+Day 15: Make a comfort list (non-food).
+Day 16: Create a colorful balanced meal.
+Day 17: Do not weigh yourself today.
+Day 18: Mindfully eat a feared food.
+Day 19: Write 5 affirmations about your body.
+Day 20: Take a photo of a meal you're proud of.
+Day 21: Reflect on how your relationship with food has improved.
+
+"Recovery is not about perfection. It's about progress and peace."
+"""

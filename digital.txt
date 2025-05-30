@@ -1,0 +1,32 @@
+digital_text = """
+21-Day Break Free Challenge – Digital Addiction
+
+WEEK 1 – AWARENESS & RESET
+Day 1: Turn off all non-essential notifications.
+Day 2: Track your screen time.
+Day 3: Create a phone-free zone.
+Day 4: Replace 30 mins of scrolling with reading.
+Day 5: Set a bedtime phone curfew.
+Day 6: Delete one app you overuse.
+Day 7: Reflect: What did you miss about life offline?
+
+WEEK 2 – REBUILDING BALANCE
+Day 8: Spend 1 hour completely offline.
+Day 9: Journal what you usually avoid by going online.
+Day 10: Practice mindfulness (just 5–10 mins).
+Day 11: Have a no-phone meal.
+Day 12: Call someone instead of messaging.
+Day 13: Explore a new hobby offline.
+Day 14: List 3 benefits you’ve noticed so far.
+
+WEEK 3 – FREEDOM & PURPOSE
+Day 15: Leave your phone behind during a walk.
+Day 16: Unfollow 5 accounts that don’t uplift you.
+Day 17: Write a list of real-life goals.
+Day 18: Start a morning routine without screens.
+Day 19: Share your journey with a friend.
+Day 20: Choose one offline ritual to keep long-term.
+Day 21: Reflect on your new digital relationship.
+
+"Your attention is your power. Reclaim it."
+"""

@@ -1,0 +1,32 @@
+gambling_text = """
+21-Day Break Free Challenge – Gambling Addiction
+
+WEEK 1 – DETOX & TRUTH
+Day 1: Delete all gambling apps and block sites.
+Day 2: Write about the true cost of gambling.
+Day 3: Tell one person about your goal to quit.
+Day 4: Track every dollar you save today.
+Day 5: Avoid gambling triggers and environments.
+Day 6: Read or watch a recovery story.
+Day 7: Write down your top 3 reasons to quit.
+
+WEEK 2 – REPLACEMENT & REBUILDING
+Day 8: Replace gambling time with an engaging activity.
+Day 9: Create a savings tracker.
+Day 10: Use a 15-minute delay for every urge.
+Day 11: Journal: what does gambling give me?
+Day 12: Call a friend instead of placing a bet.
+Day 13: List the lies gambling tells you.
+Day 14: Redesign your gambling space.
+
+WEEK 3 – STRENGTH & STABILITY
+Day 15: Reward yourself with saved money.
+Day 16: Say: "I am worthy, not lucky."
+Day 17: Write a letter to your future self.
+Day 18: Volunteer or help someone.
+Day 19: Set a boundary with people or environments.
+Day 20: List 5 things you’ve gained from quitting.
+Day 21: Reflect on your journey and progress.
+
+"You don’t need to gamble to feel alive. You just need to believe in yourself."
+"""

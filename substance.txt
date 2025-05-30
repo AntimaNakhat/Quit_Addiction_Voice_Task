@@ -1,0 +1,41 @@
+# Create four UTF-8 encoded .txt files for each addiction type with full 21-day challenge summaries.
+
+substance_text = """
+21-Day Break Free Challenge – Substance Addiction
+
+WEEK 1 – DETOX & DISCOVERY
+Day 1: Remove all access to your addictive substance.
+Day 2: Drink more water to flush your system.
+Day 3: List 3 reasons why you want to be free.
+Day 4: Replace one trigger with a healthy habit.
+Day 5: Talk to someone you trust.
+Day 6: Practice deep breathing for 5 mins.
+Day 7: Celebrate 1 week of clarity.
+
+WEEK 2 – REBUILDING & RESILIENCE
+Day 8: Identify emotional triggers.
+Day 9: Replace cravings with walking or movement.
+Day 10: Journal your progress and struggles.
+Day 11: Practice saying “no” in front of a mirror.
+Day 12: Call a support contact.
+Day 13: Do one creative thing (art, music, writing).
+Day 14: Reflect on your strongest day so far.
+
+WEEK 3 – GROWTH & PURPOSE
+Day 15: Write a letter to your future self.
+Day 16: Declutter your space of any reminders.
+Day 17: Meditate or pray for 10 minutes.
+Day 18: Help someone who’s struggling.
+Day 19: List what you’ve gained by not using.
+Day 20: Share your story with someone new.
+Day 21: Celebrate YOU – your strength, your spirit, your choice.
+
+"You are stronger than your cravings. You are becoming who you were meant to be."
+"""
+
+
+
+
+
+
+

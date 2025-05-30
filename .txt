@@ -1,0 +1,14 @@
+# Save all content into text files
+file_paths = {
+    "substance.txt": substance_text,
+    "digital.txt": digital_text,
+    "food.txt": food_text,
+    "gambling.txt": gambling_text
+}
+
+# Save the files
+for file_name, content in file_paths.items():
+    with open(file_name, "w", encoding="utf-8") as f:
+        f.write(content)
+
+file_paths.keys()  # Return the list of files created
