@@ -1,4 +1,4 @@
-# 🧠 Quit Addication 21 Days Challenges
+# 🧠 Quit Addiction 21 Days Challenges
 
 A simple desktop application built using Python and Tkinter to help users embark on a 21-day self-improvement journey across different types of addictions. The app also features text-to-speech functionality for enhanced accessibility and motivation.
 
