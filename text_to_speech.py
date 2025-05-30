@@ -14,7 +14,7 @@ file_map = {
 class ChallengeApp:
     def __init__(self, root):
         self.root = root
-        root.title("21-Day Challenge - Day by Day")
+        root.title("21-Days Challenges")
         root.geometry("600x450")
 
         # Initialize pyttsx3 engine once here for speed
